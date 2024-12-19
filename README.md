@@ -26,6 +26,8 @@ ml-study-project/ # Root directory of your project
 ├── README.md # Project overview and instructions
 └── .gitignore # Files to ignore in version control (e.g., data backups)
 
+### Preprocessing of data
+
 ## Current Progress
 
 - [x] Database created and populated.
